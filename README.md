@@ -1,5 +1,6 @@
-npm install
-npm start
+## npm install
 
-GUI 
+## npm start
+
+# GUI 
 localhost:8080
