@@ -1,0 +1,17 @@
+{
+  "name": "robotjs_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app/serve.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "iohook": "^0.6.6",
+    "nodemon": "^2.0.6",
+    "robotjs": "^0.6.0"
+  }
+}
